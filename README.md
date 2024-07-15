@@ -3,6 +3,8 @@
   - [Ubuntu 설치](#ubuntu-설치)
 - [07/14](#0714)
   - [Linux 기초 명령어와 Makefile & Make](#linux-기초-명령어와-makefile--make)
+- [07/15](#0715)
+  - [File open & close](#file-open--close)
  
 # 07/13
 ## Ubuntu 설치
@@ -25,3 +27,10 @@
 # 07/14
 ## Linux 기초 명령어와 Makefile & Make
 *[노션 페이지](https://longing-lead-6f0.notion.site/ee097f29f5414647b151e0ff52e3dcde)*
+
+# 07/15
+## File open & close
+*[노션 페이지](https://longing-lead-6f0.notion.site/ee097f29f5414647b151e0ff52e3dcde)*<br>
+- *file_open_close 폴더 생성*
+- *file_open_close README 추가*
+  - 실행 순서 및 코드 설명
